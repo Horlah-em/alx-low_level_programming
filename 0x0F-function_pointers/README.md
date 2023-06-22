@@ -1,1 +1,1 @@
-function_pointer
+function pointer
